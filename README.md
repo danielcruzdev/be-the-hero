@@ -65,4 +65,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com ♥ by Daniel Cruz :wave:
+Feito com ♥ by [Daniel Cruz](https://www.linkedin.com/in/danielafcruz/)
