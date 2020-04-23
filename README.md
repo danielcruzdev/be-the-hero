@@ -38,11 +38,11 @@ O BeTheHero √© um projeto que visa conectar pessoas que desejam fazer contribui√
 <h1 align="center">
   <p align="center">
     <p>Site</p>
-    <img alt="BeTheHero" src="/gifs/frontendbe-the-hero.gif" width="90%">
+    <img alt="BeTheHero" src="./gifs/frontendbe-the-hero.gif" width="90%">
   </p>
   <p align="center">
     <p>App</p>
-    <img alt="BeTheHero" src="/gifs/app-be-the-hero.gif" width="40%">
+    <img alt="BeTheHero" src="./gifs/app-be-the-hero.gif" width="40%">
   </p>
 </h1>
 
